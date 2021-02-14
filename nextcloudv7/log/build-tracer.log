@@ -1,0 +1,192 @@
+[T 00:56:29 21188] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 00:56:29 21188] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 00:56:29 21188] Tracing resumed...
+[T 00:56:29 21188] ==== Candidate to intercept: C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\tools\win64\runner.exe ====
+[T 00:56:29 21188] Found LdrLoadDll (64-bit) at 00007FFC0B6C4660
+[T 00:56:29 3496] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 00:56:29 3496] Tracing resumed...
+[T 00:56:29 3496] ==== Candidate to intercept: C:\Windows\System32\cmd.exe ====
+[T 00:56:29 3496] Found LdrLoadDll (64-bit) at 00007FFC0B6C4660
+[T 00:56:29 19940] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 00:56:29 19940] Tracing resumed...
+[T 00:56:29 19940] ==== Candidate to intercept: C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\tools\win64\java\bin\java.exe ====
+[T 00:56:29 19940] Found LdrLoadDll (64-bit) at 00007FFC0B6C4660
+[T 00:56:29 21824] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 00:56:29 21824] Passing through -javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java to underlying JVM.
+[T 00:56:29 21824] Passing through -Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar to underlying JVM.
+[T 00:56:29 21824] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java' '-Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar'] (result: 1, 0).
+[T 00:56:29 21824] Tracing resumed...
+[T 00:56:29 21824] ==== Candidate to intercept: C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\tools\win64\runner.exe ====
+[T 00:56:29 21824] Found LdrLoadDll (64-bit) at 00007FFC0B6C4660
+[T 00:56:29 23748] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 00:56:29 23748] Tracing resumed...
+[T 00:56:29 23748] ==== Candidate to intercept: C:\Windows\System32\cmd.exe ====
+[T 00:56:29 23748] Found LdrLoadDll (64-bit) at 00007FFC0B6C4660
+[T 00:56:29 18608] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 00:56:29 18608] Tracing resumed...
+[T 00:56:29 18608] ==== Candidate to intercept: E:\Android\jre\bin\java.exe ====
+[T 00:56:29 18608] Found LdrLoadDll (64-bit) at 00007FFC0B6C4660
+[T 00:56:29 12868] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 00:56:29 12868] Passing through -javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java to underlying JVM.
+[T 00:56:29 12868] Passing through -Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar to underlying JVM.
+[T 00:56:30 12868] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java' '-Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar'] (result: 1, 0).
+[T 00:56:45 21824] ==== Candidate to intercept: C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\tools\win64\runner.exe ====
+[T 00:56:45 21824] Found LdrLoadDll (64-bit) at 00007FFC0B6C4660
+[T 00:56:45 11944] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 00:56:45 11944] Tracing resumed...
+[T 00:56:45 11944] ==== Candidate to intercept: C:\Windows\System32\cmd.exe ====
+[T 00:56:45 11944] Found LdrLoadDll (64-bit) at 00007FFC0B6C4660
+[T 00:56:45 11884] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 00:56:45 11884] Tracing resumed...
+[T 00:56:45 11884] ==== Candidate to intercept: E:\Android\jre\bin\java.exe ====
+[T 00:56:45 11884] Found LdrLoadDll (64-bit) at 00007FFC0B6C4660
+[T 00:56:45 8200] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 00:56:45 8200] Passing through -javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java to underlying JVM.
+[T 00:56:45 8200] Passing through -Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar to underlying JVM.
+[T 00:56:45 8200] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java' '-Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar'] (result: 1, 0).
+[T 00:56:59 8200] Tracing resumed...
+[T 00:56:59 8200] ==== Candidate to intercept: E:\Programs\Android\Sdk\build-tools\26.0.2\aapt.exe ====
+[T 00:56:59 8200] Found LdrLoadDll (wow-64) at 000000007743FD00
+[T 00:56:59 8200] ==== Candidate to intercept: E:\Programs\Android\Sdk\build-tools\26.0.2\aapt.exe ====
+[T 00:56:59 8200] ==== Candidate to intercept: E:\Programs\Android\Sdk\build-tools\26.0.2\aapt.exe ====
+[T 00:56:59 8200] ==== Candidate to intercept: E:\Programs\Android\Sdk\build-tools\26.0.2\aapt.exe ====
+[T 00:56:59 16740] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 00:56:59 6424] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 00:56:59 3288] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 00:56:59 8200] ==== Candidate to intercept: E:\Programs\Android\Sdk\build-tools\26.0.2\aapt.exe ====
+[T 00:56:59 12496] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 00:56:59 8200] ==== Candidate to intercept: E:\Programs\Android\Sdk\build-tools\26.0.2\aapt.exe ====
+[T 00:56:59 8200] ==== Candidate to intercept: E:\Programs\Android\Sdk\build-tools\26.0.2\aapt.exe ====
+[T 00:56:59 17872] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 00:56:59 8200] ==== Candidate to intercept: E:\Programs\Android\Sdk\build-tools\26.0.2\aapt.exe ====
+[T 00:56:59 9284] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 00:56:59 24348] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 00:56:59 16804] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 00:57:03 8200] ==== Candidate to intercept: E:\Programs\Android\Sdk\build-tools\26.0.2\aapt.exe ====
+[T 00:57:03 18776] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 00:57:18 8200] ==== Candidate to intercept: C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools\windows\jdk-extractor-java\bin\java.exe ====
+[T 00:57:18 8200] Found LdrLoadDll (64-bit) at 00007FFC0B6C4660
+[T 00:57:18 1628] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 00:57:18 1628] Passing through -javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java to underlying JVM.
+[T 00:57:18 1628] Passing through -Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar to underlying JVM.
+[T 00:57:19 1628] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java' '-Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar'] (result: 1, 0).
+[T 00:59:32 8200] ==== Candidate to intercept: E:\Android\jre\bin\java.exe ====
+[T 00:59:32 8200] Found LdrLoadDll (64-bit) at 00007FFC0B6C4660
+[T 00:59:32 8200] ==== Candidate to intercept: E:\Android\jre\bin\java.exe ====
+[T 00:59:32 8200] Found LdrLoadDll (64-bit) at 00007FFC0B6C4660
+[T 00:59:32 8200] ==== Candidate to intercept: E:\Android\jre\bin\java.exe ====
+[T 00:59:32 8200] Found LdrLoadDll (64-bit) at 00007FFC0B6C4660
+[T 00:59:32 25524] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 00:59:32 25524] Passing through -javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java to underlying JVM.
+[T 00:59:32 25524] Passing through -Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar to underlying JVM.
+[T 00:59:32 8200] ==== Candidate to intercept: E:\Android\jre\bin\java.exe ====
+[T 00:59:32 8200] Found LdrLoadDll (64-bit) at 00007FFC0B6C4660
+[T 00:59:32 21812] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 00:59:32 21812] Passing through -javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java to underlying JVM.
+[T 00:59:32 21812] Passing through -Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar to underlying JVM.
+[T 00:59:32 8200] ==== Candidate to intercept: E:\Android\jre\bin\java.exe ====
+[T 00:59:32 8200] Found LdrLoadDll (64-bit) at 00007FFC0B6C4660
+[T 00:59:32 25028] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 00:59:32 25028] Passing through -javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java to underlying JVM.
+[T 00:59:32 25028] Passing through -Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar to underlying JVM.
+[T 00:59:32 8200] ==== Candidate to intercept: E:\Android\jre\bin\java.exe ====
+[T 00:59:32 8200] Found LdrLoadDll (64-bit) at 00007FFC0B6C4660
+[T 00:59:32 11396] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 00:59:32 11396] Passing through -javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java to underlying JVM.
+[T 00:59:32 11396] Passing through -Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar to underlying JVM.
+[T 00:59:32 8200] ==== Candidate to intercept: E:\Android\jre\bin\java.exe ====
+[T 00:59:32 8200] Found LdrLoadDll (64-bit) at 00007FFC0B6C4660
+[T 00:59:32 10872] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 00:59:32 10872] Passing through -javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java to underlying JVM.
+[T 00:59:32 10872] Passing through -Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar to underlying JVM.
+[T 00:59:32 25524] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java' '-Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar'] (result: 1, 0).
+[T 00:59:32 23392] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 00:59:32 23392] Passing through -javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java to underlying JVM.
+[T 00:59:32 23392] Passing through -Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar to underlying JVM.
+[T 00:59:32 15440] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 00:59:32 21812] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java' '-Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar'] (result: 1, 0).
+[T 00:59:32 15440] Passing through -javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java to underlying JVM.
+[T 00:59:32 15440] Passing through -Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar to underlying JVM.
+[T 00:59:32 25028] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java' '-Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar'] (result: 1, 0).
+[T 00:59:32 11396] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java' '-Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar'] (result: 1, 0).
+[T 00:59:32 10872] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java' '-Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar'] (result: 1, 0).
+[T 00:59:32 23392] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java' '-Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar'] (result: 1, 0).
+[T 00:59:32 15440] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java' '-Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar'] (result: 1, 0).
+[T 01:00:03 8200] ==== Candidate to intercept: E:\Programs\Android\Sdk\build-tools\26.0.2\aapt.exe ====
+[T 01:00:03 8200] ==== Candidate to intercept: E:\Programs\Android\Sdk\build-tools\26.0.2\aapt.exe ====
+[T 01:00:03 8200] ==== Candidate to intercept: E:\Programs\Android\Sdk\build-tools\26.0.2\aapt.exe ====
+[T 01:00:03 25592] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 01:00:03 8532] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 01:00:03 8200] ==== Candidate to intercept: E:\Programs\Android\Sdk\build-tools\26.0.2\aapt.exe ====
+[T 01:00:03 21300] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 01:00:03 8200] ==== Candidate to intercept: E:\Programs\Android\Sdk\build-tools\26.0.2\aapt.exe ====
+[T 01:00:03 8200] ==== Candidate to intercept: E:\Programs\Android\Sdk\build-tools\26.0.2\aapt.exe ====
+[T 01:00:04 1148] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 01:00:04 10276] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 01:00:04 8200] ==== Candidate to intercept: E:\Programs\Android\Sdk\build-tools\26.0.2\aapt.exe ====
+[T 01:00:04 8200] ==== Candidate to intercept: E:\Programs\Android\Sdk\build-tools\26.0.2\aapt.exe ====
+[T 01:00:04 18472] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 01:00:05 15568] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 01:00:05 17500] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 01:00:07 8200] ==== Candidate to intercept: E:\Programs\Android\Sdk\build-tools\26.0.2\aapt.exe ====
+[T 01:00:07 18992] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 01:00:17 8200] ==== Candidate to intercept: C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools\windows\jdk-extractor-java\bin\java.exe ====
+[T 01:00:17 8200] Found LdrLoadDll (64-bit) at 00007FFC0B6C4660
+[T 01:00:18 424] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 01:00:18 424] Passing through -javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java to underlying JVM.
+[T 01:00:18 424] Passing through -Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar to underlying JVM.
+[T 01:00:18 424] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java' '-Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar'] (result: 1, 0).
+[T 01:00:33 8200] ==== Candidate to intercept: E:\Android\jre\bin\java.exe ====
+[T 01:00:33 8200] Found LdrLoadDll (64-bit) at 00007FFC0B6C4660
+[T 01:00:33 8200] ==== Candidate to intercept: E:\Android\jre\bin\java.exe ====
+[T 01:00:33 8200] Found LdrLoadDll (64-bit) at 00007FFC0B6C4660
+[T 01:00:33 8200] ==== Candidate to intercept: E:\Android\jre\bin\java.exe ====
+[T 01:00:33 8200] Found LdrLoadDll (64-bit) at 00007FFC0B6C4660
+[T 01:00:33 8200] ==== Candidate to intercept: E:\Android\jre\bin\java.exe ====
+[T 01:00:33 8200] Found LdrLoadDll (64-bit) at 00007FFC0B6C4660
+[T 01:00:33 7576] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 01:00:33 1840] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 01:00:33 7576] Passing through -javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java to underlying JVM.
+[T 01:00:33 7576] Passing through -Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar to underlying JVM.
+[T 01:00:33 8200] ==== Candidate to intercept: E:\Android\jre\bin\java.exe ====
+[T 01:00:33 8200] Found LdrLoadDll (64-bit) at 00007FFC0B6C4660
+[T 01:00:33 1840] Passing through -javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java to underlying JVM.
+[T 01:00:33 1840] Passing through -Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar to underlying JVM.
+[T 01:00:33 3984] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 01:00:33 8200] ==== Candidate to intercept: E:\Android\jre\bin\java.exe ====
+[T 01:00:33 8200] Found LdrLoadDll (64-bit) at 00007FFC0B6C4660
+[T 01:00:33 8200] ==== Candidate to intercept: E:\Android\jre\bin\java.exe ====
+[T 01:00:33 8200] Found LdrLoadDll (64-bit) at 00007FFC0B6C4660
+[T 01:00:33 3984] Passing through -javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java to underlying JVM.
+[T 01:00:33 3984] Passing through -Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar to underlying JVM.
+[T 01:00:33 14380] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 01:00:33 3528] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 01:00:33 14380] Passing through -javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java to underlying JVM.
+[T 01:00:33 14380] Passing through -Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar to underlying JVM.
+[T 01:00:33 3528] Passing through -javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java to underlying JVM.
+[T 01:00:33 3528] Passing through -Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar to underlying JVM.
+[T 01:00:33 22564] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 01:00:33 20912] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 01:00:33 22564] Passing through -javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java to underlying JVM.
+[T 01:00:33 22564] Passing through -Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar to underlying JVM.
+[T 01:00:33 20912] Passing through -javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java to underlying JVM.
+[T 01:00:33 20912] Passing through -Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar to underlying JVM.
+[T 01:00:33 7576] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java' '-Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar'] (result: 1, 0).
+[T 01:00:33 1840] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java' '-Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar'] (result: 1, 0).
+[T 01:00:33 3984] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java' '-Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar'] (result: 1, 0).
+[T 01:00:34 14380] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java' '-Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar'] (result: 1, 0).
+[T 01:00:34 3528] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java' '-Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar'] (result: 1, 0).
+[T 01:00:34 22564] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java' '-Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar'] (result: 1, 0).
+[T 01:00:34 20912] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java' '-Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar'] (result: 1, 0).
+[T 01:00:49 8200] ==== Candidate to intercept: E:\Android\jre\bin\java.exe ====
+[T 01:00:49 8200] Found LdrLoadDll (64-bit) at 00007FFC0B6C4660
+[T 01:00:49 18608] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 01:00:49 18608] Passing through -javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java to underlying JVM.
+[T 01:00:49 18608] Passing through -Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar to underlying JVM.
+[T 01:00:49 18608] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java' '-Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar'] (result: 1, 0).
+[T 01:00:50 8200] ==== Candidate to intercept: E:\Android\jre\bin\java.exe ====
+[T 01:00:50 8200] Found LdrLoadDll (64-bit) at 00007FFC0B6C4660
+[T 01:00:50 7676] Reading configuration file G:\nodejs\android-security\repo\android-stable-2.0.1\nextcloudv7\working\tracing\compiler-tracing15079008434049853075.spec...
+[T 01:00:50 7676] Passing through -javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java to underlying JVM.
+[T 01:00:50 7676] Passing through -Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar to underlying JVM.
+[T 01:00:50 7676] Intercepted JVM creation with extra hidden args: ['-javaagent:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar=ignore-project,java' '-Xbootclasspath/a:C:\Users\sshiv\Downloads\codeql-win64 (1)\codeql\java\tools/codeql-java-agent.jar'] (result: 1, 0).
